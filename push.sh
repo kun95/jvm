@@ -9,3 +9,5 @@ git push -u origin master
 echo "-------4. 推送到github完毕-------"
 git push -u gitee master
 echo "-------5. 推送到gitee完毕-------"
+echo "-------6. https://kun95.github.io/jvm/-------"
+echo "-------7. https://kun95.gitee.io/jvm/-------"
